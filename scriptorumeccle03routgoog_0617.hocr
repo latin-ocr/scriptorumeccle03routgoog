@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccle03routgoog_0617.png"; bbox 0 0 2867 4817; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 591 1682 652 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 591 1682 652 1744">
+     <span class='ocr_line' id='line_1_1' title="bbox 591 1682 652 1744; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 591 1682 652 1744; x_wconf 72' lang='lat' dir='ltr'><strong>Ex</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 157 1910 967 2057">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 157 1910 967 2057">
+     <span class='ocr_line' id='line_1_2' title="bbox 157 1910 967 2057; baseline -0.004 -45"><span class='ocrx_word' id='word_1_2' title='bbox 157 2047 163 2057; x_wconf 23' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 281 1912 614 2013; x_wconf 86' lang='lat' dir='ltr'>AELFRICI</span> <span class='ocrx_word' id='word_1_4' title='bbox 646 1910 967 2011; x_wconf 85' lang='lat' dir='ltr'><strong>ABBATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 165 2178 1084 2257">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 165 2178 1084 2257">
+     <span class='ocr_line' id='line_1_3' title="bbox 165 2178 1084 2257; baseline 0.001 -7"><span class='ocrx_word' id='word_1_5' title='bbox 165 2178 238 2251; x_wconf 84' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 266 2180 641 2257; x_wconf 83' lang='lat' dir='ltr'><strong>WULFSTANUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 667 2179 730 2252; x_wconf 85' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 754 2178 1084 2254; x_wconf 86' lang='lat' dir='ltr'>WULFSINUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 452 2421 797 2505">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 452 2421 797 2505">
+     <span class='ocr_line' id='line_1_4' title="bbox 452 2421 797 2505; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 452 2421 797 2505; x_wconf 83' lang='lat' dir='ltr'><strong>EPISTOLIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1438 4817">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1438 4817">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1438 4817; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1438 4817; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
